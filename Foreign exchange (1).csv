@@ -1,0 +1,55 @@
+Date,Currencies,Exchange Rate,Transaction Type,Transaction value,Counterparty,Purpose,Settlement Date
+22 Apr 2022, USD/INR ,74,Spot Transactions,186344,Bank,Trade,09-Apr-2021
+29 Apr 2022, AUD/INR ,51,Forward Transactions,187501,Customer,Investment,16-Apr-2021
+06 May 2022,  CAD/INR ,58,Currency Swaps,187542,Government,Supporting Financial Markets,23-Apr-2021
+13 May 2022,  AED/INR ,20,Remittances,187059,Bank,Medium of Exchange,30-Apr-2021
+20 May 2022,  AFN/INR ,0.93,Spot Transactions,187680,Customer,Trade,07-May-2021
+27 May 2022,  GBP/INR ,102,Forward Transactions,187637,Government,Investment,14-May-2021
+03 Jun 2022,  HUF/INR ,0.25,Currency Swaps,188368,Bank,Supporting Financial Markets,21-May-2021
+10 Jun 2022,  HKD/INR ,9.46,Remittances,188385,Customer,Medium of Exchange,28-May-2021
+17 Jun 2022, JPY/INR ,0.66,Spot Transactions,188632,Government,Trade,04-Jun-2021
+24 Jun 2022, USD/INR ,74,Forward Transactions,188717,Bank,Investment,11-Jun-2021
+01 Jul 2022, AUD/INR ,51,Currency Swaps,189596,Customer,Supporting Financial Markets,18-Jun-2021
+08 Jul 2022,  CAD/INR ,58,Remittances,190191,Government,Medium of Exchange,25-Jun-2021
+15 Jul 2022,  AED/INR ,20,Spot Transactions,191147,Bank,Trade,02-Jul-2021
+22 Jul 2022,  AFN/INR ,0.93,Forward Transactions,192341,Customer,Investment,09-Jul-2021
+29 Jul 2022,  GBP/INR ,102,Currency Swaps,192209,Government,Supporting Financial Markets,16-Jul-2021
+05 Aug 2022,  HUF/INR ,0.25,Remittances,192258,Bank,Medium of Exchange,23-Jul-2021
+12 Aug 2022,  HKD/INR ,9.46,Spot Transactions,192768,Customer,Trade,30-Jul-2021
+19 Aug 2022, JPY/INR ,0.66,Forward Transactions,193249,Government,Investment,06-Aug-2021
+26 Aug 2022, USD/INR ,74,Currency Swaps,194866,Bank,Supporting Financial Markets,13-Aug-2021
+02 Sep 2022, AUD/INR ,51,Remittances,197073,Customer,Medium of Exchange,20-Aug-2021
+09 Sep 2022,  CAD/INR ,58,Spot Transactions,198736,Government,Trade,27-Aug-2021
+16 Sep 2022,  AED/INR ,20,Forward Transactions,200561,Bank,Investment,03-Sep-2021
+23 Sep 2022,  AFN/INR ,0.93,Currency Swaps,200895,Customer,Supporting Financial Markets,10-Sep-2021
+30 Sep 2022,  GBP/INR ,102,Remittances,202568,Government,Medium of Exchange,17-Sep-2021
+07 Oct 2022,  HUF/INR ,0.25,Spot Transactions,201079,Bank,Trade,24-Sep-2021
+14 Oct 2022,  HKD/INR ,9.46,Forward Transactions,200763,Customer,Investment,01-Oct-2021
+21 Oct 2022, JPY/INR ,0.66,Currency Swaps,201799,Government,Supporting Financial Markets,08-Oct-2021
+28 Oct 2022, USD/INR ,74,Remittances,202726,Bank,Medium of Exchange,15-Oct-2021
+04 Nov 2022, AUD/INR ,51,Spot Transactions,202739,Customer,Trade,22-Oct-2021
+11 Nov 2022,  CAD/INR ,58,Forward Transactions,202901,Government,Investment,29-Oct-2021
+18 Nov 2022,  AED/INR ,20,Currency Swaps,204537,Bank,Supporting Financial Markets,05-Nov-2021
+25 Nov 2022,  AFN/INR ,0.93,Remittances,208012,Customer,Medium of Exchange,12-Nov-2021
+02 Dec 2022,  GBP/INR ,102,Spot Transactions,209015,Government,Trade,19-Nov-2021
+09 Dec 2022,  HUF/INR ,0.25,Forward Transactions,209883,Bank,Investment,26-Nov-2021
+16 Dec 2022,  HKD/INR ,9.46,Currency Swaps,211092,Customer,Supporting Financial Markets,03-Dec-2021
+23 Dec 2022, JPY/INR ,0.66,Remittances,211269,Government,Medium of Exchange,10-Dec-2021
+30 Dec 2022, USD/INR ,74,Spot Transactions,211656,Bank,Trade,17-Dec-2021
+06 Jan 2023, AUD/INR ,51,Forward Transactions,215272,Customer,Investment,24-Dec-2021
+13 Jan 2023,  CAD/INR ,58,Currency Swaps,215929,Government,Supporting Financial Markets,31-Dec-2021
+20 Jan 2023,  AED/INR ,20,Remittances,218392,Bank,Medium of Exchange,07-Jan-2022
+27 Jan 2023,  AFN/INR ,0.93,Spot Transactions,219468,Customer,Trade,14-Jan-2022
+03 Feb 2023,  GBP/INR ,102,Forward Transactions,223008,Government,Investment,21-Jan-2022
+10 Feb 2023,  HUF/INR ,0.25,Currency Swaps,223891,Bank,Supporting Financial Markets,28-Jan-2022
+17 Feb 2023,  HKD/INR ,9.46,Remittances,224349,Customer,Medium of Exchange,04-Feb-2022
+24 Feb 2023, JPY/INR ,0.66,Spot Transactions,226377,Government,Trade,11-Feb-2022
+03 Mar 2023, USD/INR ,74,Forward Transactions,228008,Bank,Investment,18-Feb-2022
+10 Mar 2023, AUD/INR ,51,Currency Swaps,230324,Customer,Supporting Financial Markets,25-Feb-2022
+17 Mar 2023,  CAD/INR ,58,Remittances,231478,Government,Medium of Exchange,04-Mar-2022
+24 Mar 2023,  AED/INR ,20,Spot Transactions,232450,Bank,Trade,11-Mar-2022
+07 Apr 2023,  AFN/INR ,0.93,Forward Transactions,235826,Customer,Investment,18-03-2022
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
